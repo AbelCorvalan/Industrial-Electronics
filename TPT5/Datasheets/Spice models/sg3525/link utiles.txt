@@ -1,0 +1,2 @@
+https://www.diyaudio.com/community/threads/sg3525-spice-model-needed.165262/ .asc del sg3524 
+https://sourceforge.net/projects/pspice-models/files/SG3525/ .lib del sg3524

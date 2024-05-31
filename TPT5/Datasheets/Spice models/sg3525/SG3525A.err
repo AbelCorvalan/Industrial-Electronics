@@ -1,0 +1,7 @@
+STATUS: PSpice Schematics to Capture translator (16.6.0.d001)
+STATUS:  
+STATUS: Translator started at Sunday, October 25, 2015 21:21:14
+INFO(ORSCH-1029): Using existing library 'C:\Cadence\SPB_16.6\tools\Capture\Library\PSpice\modeled.etc'.
+INFO(ORSCH-1029): Using existing library 'C:\Users\Eric\Desktop\Lab2\Experiment5\pspice\lib\SG3525A Model\SG3525A.olb'.
+STATUS: Translator stopped at Sunday, October 25, 2015 21:21:20
+STATUS: 0 Error messages, 0 Warning messages

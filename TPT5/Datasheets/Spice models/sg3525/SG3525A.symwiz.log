@@ -1,0 +1,13 @@
+STATUS: PSpice Model Import Wizard for "Capture" (16.6.0.d001)
+STATUS:  
+   INFO: LIB driven flow
+   INFO: Input File: C:\Users\Eric\Desktop\Lab2\Experiment5\pspice\lib\SG3525A Model\SG3525A.lib
+   INFO: Output File: C:\Users\Eric\Desktop\Lab2\Experiment5\pspice\lib\SG3525A Model\SG3525A.olb
+STATUS:  
+STATUS: Identifying matching symbols automatically...started at Sunday, October 25, 2015 21:21:14
+STATUS:  
+   INFO: Symbol "SG3525A" already exists for model "SG3525A".
+STATUS:  
+STATUS: Completed identifying matching symbols automatically...at Sunday, October 25, 2015 21:21:15
+STATUS:  
+STATUS: 0 Error messages, 0 Warning messages
