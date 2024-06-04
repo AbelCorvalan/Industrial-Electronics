@@ -1,0 +1,23 @@
+Circuit: * Z:\home\abel\Desktop\Abel\Facu\Electrónica Industrial\Industrial Electronics\TPT8\Simulaciones\Circuito rectificador monofásico totalmente controlado con diodo volante carga RL.asc
+
+.OP point found by inspection.
+
+Date: Sun Jun 02 23:59:33 2024
+Total elapsed time: 0.291 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 31105
+traniter = 31105
+tranpoints = 11230
+accept = 9008
+rejected = 2222
+matrix size = 113
+fillins = 87
+solver = Normal
+Thread vector: 6.6/4.7[3] 1.1/1.4[1] 2.8/1.6[3] 0.2/0.9[1]  2592/500
+Matrix Compiler1: 7.64 KB object code size  1.4/0.8/[0.4]
+Matrix Compiler2: 8.84 KB object code size  0.5/0.8/[0.3]
+
+
